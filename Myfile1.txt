@@ -1,1 +1,83 @@
-This is the new one! 
+<!DOCTYPE html>
+    <html lang="en">
+    <head>
+    <meta charset="UTF-8">
+
+        <title>Tom Petty Fanpage</title>
+
+    </head> <link rel="icon" href="https://pbs.twimg.com/profile_images/3129773391/b04fd9aab2eccaac649fb64d12fb27ad_400x400.jpeg"
+
+    <body>
+
+
+
+        <h1>Welcome to the Tom Petty Fanpage</h1>
+
+    <p>First and foremost, RIP Tom Petty. We lost a national treasure October 2, 2017 but your music will live on through future generations. Whether you need a pick me up or a song to mellow out with after a long day, Tom Petty has us covered. </p>
+
+    <h2>His time with the Heartbreakers</h2>
+    
+    <p>In 1977 Tom Petty and the Heartbreakers debuted their self-titled album and first single, <i>Breakdown</i>, which peaked breifly at No.40 in 1978. Their second album was their first album to to be in the Top 40. However, their third album, <i>Damn the Torpedoes</i>, went platinum. This album including many known hits such as <i>Dont Do Me Like That</i>, <i>Here Comes my Girl</i> and <i>Refugee</i>. In 1981 Tom Petty collaborated with Stevie Nicks on song which landed on their four and second album to go Platinum, <i>Hard Promises</i>. In 1982 they released their fifth album which included the famous <i>Don't Come Around here No More</i>.</p>
+    <iframe width="640" height="360" src="https://www.youtube.com/embed/FvV5C24PC9M" frameborder="0" gesture="media" allowfullscreen></iframe>
+    <p>Tome Petty and the Heartbreakers toured with some of the best in the business, ie Bob Dylan and the Grateful Dead. From Madison Sqare Harden to Philadelphia's John F. Kennedy Stadium to England, I hate I wasn't born just twenty years earlier. What shows they must have put on! Although, I was lucky enough to see him in concert with the Heartbreakers circa 2005. Ten years later, I can still say it was one of the best concerts I have ever attended.</p>
+
+    <h3>His Time with Traveling Wilburys</h3>
+
+    <p>In 1988, Tom Petty joined the Traveling Wilburys with the likes of Bob Dylan, Roy Orbison, and Jeff Lynne. They recorded albums, Traveling WIlburys Vol 1 and Traveling Wilburys Vol 3. Vol 2 was skipped due to a series of bootlegged studio sessions being sold as Vol 2. </p>
+
+    <img src="http://www.travelingwilburys.com/wp-content/uploads/2016/04/history-band.jpg" alt="Traveling Wilburys">
+
+
+    <h4>His Solo Career and the Rejoining of the Heartbreakers</h4>
+    
+    <p>In 1989 Tom Petty released his first solo album, <i>Full Moon Fever</i>. In 1991 he and the heartbreakers reformed to creat a few more masterpieces. Between his <a href=https://en.wikipedia.org/wiki/Tom_Petty_discography#Solo_albums>solo albums</a> and the new hits from the band, these are the song I fell in love with and firt discovered. They are in no particular order as music ebbs and flows with my mood and what I need in the moment.</p>
+    
+    <ul>
+        <li>Free Fallin</li>
+        <li>Into the Great Wide Open</li>
+        <li>I Won't Back Down</li>
+        <li>Runnin' Down a Dream</li>
+        <li>Learning to Fly</li>
+        <li>Mary Jane's Last Dance</li>
+        <li>Yer So bad</li>
+
+
+    </ul>
+
+<p class="guarantee"
+<p><b><i> I hoped you enjoyed reading a little about my experience with Tom Petty. If you missed the boat and never experienced him while he was alive, please check him <a href=https://www.youtube.com/watch?v=1lWJXDG2i0A&list=RDEMbUu8_HwYfuxrOyZwWZ1-Qg>out<a/>. <b><i>I guarantee you'll find something that speaks to you! <b><i></p>
+
+</body>
+<style>
+    body{
+        background-color: rgb(199, 216, 244);
+    }
+    h1 {
+        text-align: center;
+        font-weight: bold;
+        color: rgb(17,0,244);
+    }
+
+    h2 {
+        font-size: large;
+        text-decoration: underline;
+        color: rgb(213,36,154);
+    }
+
+    h3 {    
+        font-size: large;
+        text-decoration: underline;
+        color: rgb(109,36,154);
+    }
+
+    h4 {
+        font-size: large;
+        text-decoration: underline;
+        color: rgb(109,180,31);
+    }
+    .guarantee{
+        color: hotpink;
+    }
+
+
+</html>
